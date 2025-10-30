@@ -32,9 +32,9 @@ http://localhost:3000
 
 ## 📊 Create Dashboard
 
-1- Login to Grafana.
-2- Add Prometheus data source: http://prometheus:9090.
-3- Import the node_dashboard.json file.
+- **Login to Grafana.**
+- **Add Prometheus data source: http://prometheus:9090.**
+- **Import the node_dashboard.json file.**
 
 ## 📬 Result
 You’ll see real-time CPU and memory usage graphs!
